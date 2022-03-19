@@ -379,7 +379,7 @@
 }
 #Header {
 	position: absolute;
-	height: 64px;
+	height: 62px;
 	left: 0px;
 	right: 0px;
 	top: 0px;
@@ -391,12 +391,12 @@
 	justify-content: flex-end;
 	flex-wrap: nowrap;
 	overflow: visible;
-	padding: 20px 36px 20px 20px;
+	padding: 20px 42px 18px 20px;
 }
 #Group_426 {
 	position: relative;
-	width: 422px;
-	height: 19px;
+	width: 416px;
+	height: 16px;
 	display: flex;
 	flex-direction: row-reverse;
 	align-items: normal;
@@ -411,13 +411,13 @@
 	position: relative;
 	align-self: auto;
 	overflow: visible;
-	width: 54px;
+	width: 48px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: SF Pro Display;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 16px;
+	font-size: 14px;
 	color: rgba(92,90,101,1);
 	transition: all .3s ease-out;
 }
@@ -428,13 +428,13 @@
 	position: relative;
 	align-self: auto;
 	overflow: visible;
-	width: 42px;
+	width: 37px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: SF Pro Display;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 16px;
+	font-size: 14px;
 	color: rgba(92,90,101,1);
 	text-decoration:  none;
 	transition: all .3s ease-out;
@@ -443,13 +443,13 @@
 	position: relative;
 	align-self: auto;
 	overflow: visible;
-	width: 42px;
+	width: 37px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: SF Pro Display;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 16px;
+	font-size: 14px;
 	color: rgba(255,255,255,1);
 	text-decoration:  none;
 }
